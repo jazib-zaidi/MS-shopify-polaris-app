@@ -1,10 +1,4 @@
-# Shopify App Template - Remix
-
-This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
-
-Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](https://shopify.dev/docs/apps/getting-started/create).
-
-Visit the [`shopify.dev` documentation](https://shopify.dev/docs/api/shopify-app-remix) for more details on the Remix app package.
+# MS-shopify-polaris-app
 
 ## Quick start
 
@@ -17,8 +11,6 @@ Before you begin, you'll need the following:
 3. **Test Store**: Set up either a [development store](https://help.shopify.com/en/partners/dashboard/development-stores#create-a-development-store) or a [Shopify Plus sandbox store](https://help.shopify.com/en/partners/dashboard/managing-stores/plus-sandbox-store) for testing your app.
 
 ### Setup
-
-If you used the CLI to create the template, you can skip this section.
 
 Using yarn:
 
